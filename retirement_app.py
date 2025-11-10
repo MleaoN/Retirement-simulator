@@ -150,3 +150,4 @@ if optimal_retirement_age > current_age:
     print(f"assuming {interest*100:.1f}% annual growth and current investment ${initial_investment:.2f}.")
 else:
     print("\nNo accumulation period (optimal retirement age <= current age).")
+
